@@ -209,6 +209,7 @@ The SQL file contains the queries in assignment order with the required student 
 
 ## Project Structure
 
+```text
 SQL-11-12-13-AK/
 │
 ├── 11-12-13-SETUP/
@@ -238,3 +239,4 @@ SQL-11-12-13-AK/
 │
 ├── assignment.sql
 └── README.md
+````
